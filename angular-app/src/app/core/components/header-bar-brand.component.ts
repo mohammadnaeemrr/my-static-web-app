@@ -14,7 +14,7 @@ import { Component } from '@angular/core';
       </a>
       <a class="navbar-item nav-home" router-link="/">
          <span class="brand-first">RR</span>
-        <span class="brand-first">MY</span>
+        <!-- <span class="brand-first">MY</span> -->
         <span class="brand-second">SHOPPING</span>
         <span class="brand-third">LIST</span>
       </a>
